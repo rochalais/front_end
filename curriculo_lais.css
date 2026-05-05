@@ -1,0 +1,43 @@
+#body {
+  background-color: rgb(208, 255, 255);
+}
+
+h1 {
+  font-family: 'Cause', sans-serif;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.contato {
+  font-family: 'Cause', sans-serif;
+}
+
+.contato span {
+  font-weight: bold;
+  text-decoration: wavy underline black 1px;
+}
+
+.contato a:hover {
+  color: green;
+}
+
+.contato ul {
+  list-style-type: none;
+  padding-left: 16px;
+}
+
+.contato ul img {
+  margin-right: 5px;
+}
+
+a[href="https://www.linkedin.com/in/laís-j-m-rocha-962633277/"], 
+a[href="https://github.com/rochalais"] {
+  color: blue;
+}
+
+.habilidades ul {
+  list-style-type: "⭐ ";
+  font-style: italic;
+}
